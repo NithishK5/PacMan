@@ -1,4 +1,6 @@
 # PacMan
 This is a project on Pacman game!
 
-123
+Install all dependencies
+
+To run use npm run dev
